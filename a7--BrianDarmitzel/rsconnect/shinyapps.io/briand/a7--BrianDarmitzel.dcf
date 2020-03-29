@@ -1,0 +1,13 @@
+name: a7--BrianDarmitzel
+title: a7--BrianDarmitzel
+username:
+account: briand
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1546268
+bundleId: 2632038
+url: https://briand.shinyapps.io/a7--BrianDarmitzel/
+when: 1575281171.75048
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md|rubric.md
